@@ -90,12 +90,4 @@ AI-generated code review, coding-agent evaluation, rubric design, response ranki
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathanielai&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanielai&layout=compact&hide_border=true)
-
----
-
 > Building intelligent systems where **AI meets real-world software engineering**.
